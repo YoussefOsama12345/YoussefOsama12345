@@ -48,7 +48,7 @@
   <a href="mailto:osama74454@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="www.linkedin.com/in/youssef-osama-002951250">
+  <a href="https://www.linkedin.com/in/youssef-osama-002951250/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://discord.com/users/655025153432092701">
