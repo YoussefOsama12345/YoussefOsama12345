@@ -45,19 +45,19 @@
 ### 💎 Connect with Me
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:osama74454@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="www.linkedin.com/in/youssef-osama-002951250">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/655025153432092701">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~your-profile">
+  <a href="https://www.upwork.com/freelancers/~01bf0e2db1d5f133f5?mp_source=share">
     <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Upwork logo" />
   </a>
-  <a href="https://www.freelancer.com/u/your-profile">
+  <a href="https://www.freelancer.com/u/YoussefOsama134?sb=t">
     <img src="https://img.shields.io/static/v1?message=Freelancer&logo=freelancer&label=&color=29b2fe&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Freelancer logo" />
   </a>
 </div>
