@@ -1,18 +1,13 @@
-<h2 align="left">Hi 👋! My name is Youssef, and I'm a Full-Stack Web Developer, Machine Learning Enthusiast, and Data Scientist from Egypt.</h2>
+<img src="Github Banner.png">
 
-###
-
-
-
-###
+<h2 align="left">`Hi 👋! My name is Youssef, and I'm a Full-Stack Web Developer, Machine Learning Enthusiast, and Data Scientist from Egypt.`</h2>
 
 <img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-###
 
 ### 🔧 Tech Stack
 
 #### 🎨 Front-End Technologies
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -24,6 +19,7 @@
 </div>
 
 #### 🖥️ Back-End Technologies
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
@@ -33,6 +29,7 @@
 </div>
 
 #### 📊 Data Science & Machine Learning
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
@@ -45,9 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
 
-###
-
 ### 💎 Connect with Me
+
 <div align="left">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
