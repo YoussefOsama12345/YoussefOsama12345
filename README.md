@@ -64,11 +64,17 @@ me.say_hi()
 
 ### 🎯 **Core Expertise Areas**
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Development;Machine+Learning+Expertise;Cloud+Architecture;Modern+Technologies" alt="Expertise Typing" />
+</div>
+
+<br>
+
 <table>
 <tr>
-<td width="50%">
+<td width="33.33%" align="center">
 
-#### 💻 **Programming Languages**
+### 💻 **Programming Languages**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
@@ -80,22 +86,21 @@ me.say_hi()
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
 </div>
 
-#### 🎨 **Frontend Development**
+</td>
+<td width="33.33%" align="center">
+
+### 🎨 **Frontend Development**
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117" />
 </div>
 
 </td>
-<td width="50%">
+<td width="33.33%" align="center">
 
-#### ⚙️ **Backend Development**
+### ⚙️ **Backend Development**
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
@@ -108,7 +113,15 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" />
 </div>
 
-#### 🤖 **Machine Learning & Data Science**
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🤖 **Machine Learning & Data Science**
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
@@ -122,26 +135,30 @@ me.say_hi()
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
 </div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### ☁️ **Cloud & DevOps**
+### 🚀 **Advanced Technologies & Tools**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### ☁️ **Cloud & DevOps**
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GitLab_CI-CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" />
 </div>
 
-### 🛠️ **Development Tools & Technologies**
+</td>
+<td width="50%" align="center">
+
+#### 🛠️ **Development Tools**
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
@@ -155,7 +172,13 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117" />
 </div>
 
----
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ### 🎨 **Modern Design & UI/UX**
 <div align="center">
@@ -169,89 +192,109 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white&labelColor=0D1117" />
 </div>
 
----
-
-### 🚀 **Emerging Technologies**
-<div align="center">
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0D1117" />
 </div>
 
 ---
 
 ## 📈 Skills Progress & Expertise
 
-### 💻 Programming Languages
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Expert+Level+Skills;Advanced+Proficiency;Continuous+Learning;Professional+Growth" alt="Skills Typing" />
+</div>
+
+<br>
+
+### 🎯 **Skill Proficiency Matrix**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 💻 **Programming Languages**
 ```
-Python           ████████████████████ 95%
-JavaScript       ████████████████████ 90%
-TypeScript       ████████████████████ 85%
-HTML/CSS         ████████████████████ 95%
-SQL              ████████████████████ 90%
-Java             ████████████████████ 75%
-C++              ████████████████████ 70%
+Python           ████████████████████ 95% ⭐⭐⭐⭐⭐
+JavaScript       ████████████████████ 90% ⭐⭐⭐⭐⭐
+TypeScript       ████████████████████ 85% ⭐⭐⭐⭐
+HTML/CSS         ████████████████████ 95% ⭐⭐⭐⭐⭐
+SQL              ████████████████████ 90% ⭐⭐⭐⭐⭐
+Java             ████████████████████ 75% ⭐⭐⭐⭐
+C++              ████████████████████ 70% ⭐⭐⭐
 ```
 
-### 🎨 Frontend Development
+#### 🎨 **Frontend Development**
 ```
-React/Next.js    ████████████████████ 95%
-Vue.js           ████████████████████ 80%
-Angular          ████████████████████ 75%
-Tailwind CSS     ████████████████████ 90%
-Bootstrap        ████████████████████ 85%
-Sass/SCSS        ████████████████████ 80%
-Redux            ████████████████████ 85%
+React/Next.js    ████████████████████ 95% ⭐⭐⭐⭐⭐
+Tailwind CSS     ████████████████████ 90% ⭐⭐⭐⭐⭐
+Bootstrap        ████████████████████ 85% ⭐⭐⭐⭐
 ```
 
-### ⚙️ Backend Development
+</td>
+<td width="50%" align="center">
+
+#### ⚙️ **Backend Development**
 ```
-Django           ████████████████████ 90%
-FastAPI          ████████████████████ 85%
-Flask            ████████████████████ 80%
-Node.js          ████████████████████ 75%
-Express.js       ████████████████████ 70%
-Database Design  ████████████████████ 90%
-API Development  ████████████████████ 95%
+Django           ████████████████████ 90% ⭐⭐⭐⭐⭐
+FastAPI          ████████████████████ 85% ⭐⭐⭐⭐
+Flask            ████████████████████ 80% ⭐⭐⭐⭐
+Node.js          ████████████████████ 75% ⭐⭐⭐⭐
+Express.js       ████████████████████ 70% ⭐⭐⭐
+Database Design  ████████████████████ 90% ⭐⭐⭐⭐⭐
+API Development  ████████████████████ 95% ⭐⭐⭐⭐⭐
 ```
 
-### 🤖 Machine Learning & Data Science
+#### 🤖 **Machine Learning & Data Science**
 ```
-TensorFlow       ████████████████████ 85%
-PyTorch          ████████████████████ 80%
-Scikit-learn     ████████████████████ 90%
-Pandas           ████████████████████ 95%
-NumPy            ████████████████████ 90%
-Data Analysis    ████████████████████ 95%
-Deep Learning    ████████████████████ 80%
-Computer Vision  ████████████████████ 75%
-NLP              ████████████████████ 70%
-```
-
-### ☁️ Cloud & DevOps
-```
-AWS              ████████████████████ 80%
-Docker           ████████████████████ 85%
-Kubernetes       ████████████████████ 70%
-CI/CD            ████████████████████ 75%
-Terraform        ████████████████████ 65%
-Jenkins          ████████████████████ 70%
+TensorFlow       ████████████████████ 85% ⭐⭐⭐⭐
+PyTorch          ████████████████████ 80% ⭐⭐⭐⭐
+Scikit-learn     ████████████████████ 90% ⭐⭐⭐⭐⭐
+Pandas           ████████████████████ 95% ⭐⭐⭐⭐⭐
+NumPy            ████████████████████ 90% ⭐⭐⭐⭐⭐
+Data Analysis    ████████████████████ 95% ⭐⭐⭐⭐⭐
+Deep Learning    ████████████████████ 80% ⭐⭐⭐⭐
+Computer Vision  ████████████████████ 75% ⭐⭐⭐⭐
+NLP              ████████████████████ 70% ⭐⭐⭐
 ```
 
-### 🛠️ Tools & Technologies
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ☁️ **Cloud & DevOps Expertise**
 ```
-Git/GitHub       ████████████████████ 95%
-VS Code          ████████████████████ 90%
-PyCharm          ████████████████████ 85%
-Postman          ████████████████████ 90%
-Figma            ████████████████████ 75%
-Jupyter          ████████████████████ 95%
+AWS              ████████████████████ 80% ⭐⭐⭐⭐
+Docker           ████████████████████ 85% ⭐⭐⭐⭐
+Kubernetes       ████████████████████ 70% ⭐⭐⭐
+CI/CD            ████████████████████ 75% ⭐⭐⭐⭐
+Terraform        ████████████████████ 65% ⭐⭐⭐
+GitLab CI/CD     ████████████████████ 75% ⭐⭐⭐⭐
 ```
+
+### 🛠️ **Development Tools & Technologies**
+```
+Git/GitHub       ████████████████████ 95% ⭐⭐⭐⭐⭐
+VS Code          ████████████████████ 90% ⭐⭐⭐⭐⭐
+PyCharm          ████████████████████ 85% ⭐⭐⭐⭐
+Postman          ████████████████████ 90% ⭐⭐⭐⭐⭐
+Figma            ████████████████████ 75% ⭐⭐⭐⭐
+Jupyter          ████████████████████ 95% ⭐⭐⭐⭐⭐
+Slack            ████████████████████ 85% ⭐⭐⭐⭐
+Trello           ████████████████████ 80% ⭐⭐⭐⭐
+```
+
+</div>
+
+---
+
+### 📊 **Skill Level Legend**
+- ⭐⭐⭐⭐⭐ **Expert** (90-100%): Mastery level, can teach others
+- ⭐⭐⭐⭐ **Advanced** (70-89%): Highly proficient, can lead projects
+- ⭐⭐⭐ **Intermediate** (50-69%): Competent, can work independently
+- ⭐⭐ **Beginner** (30-49%): Learning, needs guidance
+- ⭐ **Novice** (0-29%): Just starting, needs supervision
 
 ---
 
