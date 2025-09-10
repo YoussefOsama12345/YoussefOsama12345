@@ -62,12 +62,6 @@ me.say_hi()
 
 ---
 
-### 🎯 **Core Expertise Areas**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Development;Machine+Learning+Expertise;Cloud+Architecture;Modern+Technologies" alt="Expertise Typing" />
-</div>
-
 <br>
 
 ### 💻 **Programming Languages**
@@ -144,9 +138,8 @@ me.say_hi()
 ### 🎨 **Modern Design & UI/UX**
 <div align="left">
   <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Maze-FF3366?style=for-the-badge&logo=maze&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=0D1117" />
@@ -280,13 +273,7 @@ Jupyter          ████████████████████ 95
 
 ---
 
-## 🎵 What I'm Listening To
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Spotify Playing" />
-</div>
-
----
 
 ## 💼 Professional Experience
 
