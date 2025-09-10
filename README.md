@@ -263,48 +263,63 @@ Jupyter          ████████████████████ 95
 
 ## 🌟 Featured Projects
 
-### 🤖 AI/ML Projects
-- **🔮 Predictive Analytics Dashboard**: Machine learning model for business forecasting
-  - *Tech Stack*: Python, TensorFlow, React, FastAPI
-  - *Features*: Real-time predictions, interactive visualizations
+### 🤖 AI/ML & Computer Vision Projects
+- **🖼️ Image Caption Generator**: Deep learning-based system that creates human-like descriptions from images
+  - *Tech Stack*: Python, TensorFlow, Keras, ResNet50, NLTK, Hugging Face Transformers
+  - *Features*: 8 model architectures (LSTM, RNN, GRU, BiLSTM, Transformer), BLEU score evaluation, real-time predictions
+  - *Impact*: Connects computer vision and NLP for accessibility and content automation
+  - *Status*: Completed
+
+- **🏥 Loan Approval Prediction**: Comprehensive ML solution for predicting loan default probability
+  - *Tech Stack*: Python, FastAPI, Scikit-learn, XGBoost, LightGBM, CatBoost, MLflow, Prometheus
+  - *Features*: Multiple classification models, hyperparameter tuning, RESTful API, MLOps pipeline
+  - *Impact*: Production-ready system for automated credit risk assessment
+  - *Status*: Completed
+
+### 🎯 Career & Job Platform Projects
+- **💼 Intelligent Career Advisor Platform**: Full-stack AI-powered job search and application platform
+  - *Tech Stack*: React.js, Tailwind CSS, C# (.NET Core), SQL Server, Python (NLP), Transformers
+  - *Features*: Job recommendations, mock interviews, resume analysis, career path prediction, skill gap identification
+  - *Impact*: Streamlines job search with AI-driven career guidance
+  - *Status*: Completed
+
+- **📋 Job Recommendation System**: AI-powered engine matching users to relevant job listings
+  - *Tech Stack*: Python, FastAPI, SQLAlchemy, MySQL, React.js, SpaCy, SentenceTransformers
+  - *Features*: User/job vectorization, cosine similarity ranking, skill matching, feedback loop
+  - *Impact*: Accelerates job discovery with personalized suggestions
+  - *Status*: Completed
+
+- **📄 Resume Analyzer**: AI-based resume optimization tool for ATS compatibility
+  - *Tech Stack*: Python, FastAPI, Transformers, PyMuPDF, python-docx, SQLAlchemy, MySQL
+  - *Features*: Resume parsing, keyword optimization, ATS scoring, skill gap detection, feedback generation
+  - *Impact*: Improves resume visibility and job application outcomes
+  - *Status*: Completed
+
+- **🎤 Mock Interview Chatbot**: AI-powered interview simulation with adaptive questioning
+  - *Tech Stack*: Python, FastAPI, Transformers, SQLAlchemy, MySQL, React.js
+  - *Features*: Role-based questions, adaptive difficulty, response analysis, sentiment analysis, session scoring
+  - *Impact*: Empowers users to practice interviews with personalized feedback
+  - *Status*: Completed
+
+### 🏢 Business & Management Systems
+- **🍽️ Restaurant Management System**: Full-stack platform for online reservations and food ordering
+  - *Tech Stack*: React.js, Python, FastAPI, SQLAlchemy, MySQL, Docker
+  - *Features*: Table reservations, food ordering, real-time tracking, admin dashboard, delivery management
+  - *Impact*: Streamlines restaurant operations and enhances customer experience
+  - *Status*: Completed
+
+- **🏥 Hospital Management System**: Comprehensive desktop application for hospital operations
+  - *Tech Stack*: Python, SQLite3, ReportLab, Flet
+  - *Features*: Patient records, billing, appointments, staff management, inventory, attendance tracking
+  - *Impact*: Streamlines administrative tasks and improves hospital workflow
+  - *Status*: Completed
+
+### 🎙️ AI Voice & Gesture Control
+- **🗣️ AI Voice Assistant**: Gesture-controlled voice assistant with advanced AI capabilities
+  - *Tech Stack*: Python, Computer Vision, Speech Recognition, NLP
+  - *Features*: Gesture recognition, voice commands, intelligent responses, hands-free control
+  - *Impact*: Innovative interface for accessibility and hands-free interaction
   - *Status*: In Development
-
-- **📊 Data Visualization Tool**: Interactive dashboard for data analysis
-  - *Tech Stack*: Python, Pandas, Plotly, Streamlit
-  - *Features*: Dynamic charts, data export, real-time updates
-  - *Status*: Completed
-
-- **🤖 Smart Chatbot**: NLP-powered customer service bot
-  - *Tech Stack*: Python, Transformers, Flask, React
-  - *Features*: Natural language processing, context awareness
-  - *Status*: Completed
-
-### 🌐 Web Applications
-- **🛒 E-Commerce Platform**: Full-stack online shopping solution
-  - *Tech Stack*: React, Node.js, MongoDB, Stripe
-  - *Features*: User authentication, payment processing, admin panel
-  - *Status*: Completed
-
-- **📋 Task Management System**: Collaborative project management tool
-  - *Tech Stack*: Next.js, TypeScript, PostgreSQL, Prisma
-  - *Features*: Real-time collaboration, file sharing, notifications
-  - *Status*: In Development
-
-- **💼 Portfolio Website**: Modern, responsive personal portfolio
-  - *Tech Stack*: React, Tailwind CSS, Framer Motion
-  - *Features*: Dark mode, animations, contact form
-  - *Status*: Completed
-
-### 📊 Data Science
-- **📈 Market Analysis Tool**: Real-time financial data analysis
-  - *Tech Stack*: Python, Pandas, Scikit-learn, Django
-  - *Features*: Stock predictions, trend analysis, risk assessment
-  - *Status*: Completed
-
-- **👥 Customer Segmentation**: ML-powered customer insights
-  - *Tech Stack*: Python, K-means, Matplotlib, Jupyter
-  - *Features*: Customer profiling, behavior analysis, recommendations
-  - *Status*: Completed
 
 ---
 
@@ -320,46 +335,276 @@ Jupyter          ████████████████████ 95
 
 ## 💼 Professional Experience
 
-### 🚀 Freelance Full-Stack Developer
-**2022 - Present**
-- **Platforms**: Upwork, Freelancer.com, Fiverr
-- **Rating**: Top-rated freelancer with 100% job success rate
-- **Specializations**: 
-  - Full-stack web development (React, Django, Node.js)
-  - Machine Learning solutions and data analysis
-  - E-commerce platforms and business applications
-  - API development and database design
+### 🤖 Generative AI Intern
+**ITIDA Gigs** | *Jun 2025 - Present* | Remote
+- Building autonomous multi-agent systems for intelligent collaboration and decision-making
+- Designing and deploying modular agents to automate workflows like meeting scheduling, agenda creation, and document generation
+- Orchestrating agents for parsing, retrieval, summarization, and task execution with shared memory and inter-agent messaging
+- Integrating APIs including Google Calendar, Zoom, and Microsoft Graph for real-time coordination
 - **Key Achievements**:
-  - Completed 50+ successful projects
-  - Maintained 5-star rating across all platforms
-  - Built scalable applications for international clients
-  - Delivered projects 20% faster than estimated timelines
+  - Built autonomous AI agents for meeting coordination and summarization
+  - Reduced scheduling conflicts by 80% via real-time calendar integration
+  - Implemented RAG pipelines with Milvus and Qdrant for contextual responses
+  - Automated agenda and summary generation in DOCX and PDF formats
+  - Fine-tuned LLMs to boost task-specific accuracy and output quality
+- **Tech Stack**: LangChain, LangGraph, FastAPI, Uvicorn, OpenAI, Google Generative AI, Milvus, Qdrant
 
-### 🎯 Project Highlights
-- **E-Commerce Platform**: Built full-stack shopping solution with 10,000+ users
-- **ML Dashboard**: Developed predictive analytics tool for business forecasting
-- **Data Pipeline**: Created automated data processing system for financial analysis
-- **Mobile App Backend**: Designed RESTful APIs for cross-platform mobile application
+### 🤖 Agentic AI Intern
+**Joe 13** | *Mar 2025 - Jun 2025* | Saudi Arabia (Remote)
+- Developed autonomous multi-agent systems capable of intelligent collaboration and decision-making
+- Designed and deployed modular agents to automate complex workflows
+- Implemented Retrieval-Augmented Generation (RAG) pipelines using OpenAI and Google Generative AI
+- Developed fine-tuning workflows for large language models (LLMs) to improve domain-specific performance
+- **Key Achievements**:
+  - Built scalable APIs with complete Swagger docs and Pytest coverage
+  - Integrated vector databases (Milvus, Qdrant) for fast semantic retrieval
+  - Automated document generation and processing workflows
+- **Tech Stack**: LangChain, LangGraph, FastAPI, Pydantic, Uvicorn, Postman, Swagger, Pytest
 
-### 🎓 Education & Certifications
+### 👥 Team Leader & AI Engineer
+**Digital Egypt Pioneers Initiative (DEPI)** | *Oct 2024 - Jun 2025* | Giza, Egypt (Hybrid)
+- **Team Leader Role**: Led development of Resume Analyzer platform for evaluating and scoring resumes
+- **AI Engineer Role**: Worked on Job Genius, a national-scale AI project for resume-job matching
+- Managed cross-functional team across data science, frontend, and documentation roles
+- **Key Achievements**:
+  - **3rd Place Award** for Resume Analyzer project among all DEPI internship projects
+  - **1st Place Award** for Job Genius mega project among all DEPI projects
+  - Built NLP pipelines to extract structured data from resumes
+  - Improved sentiment classification accuracy by 15%
+  - Automated data pipeline, reducing prep time by 30%
+- **Tech Stack**: Python, spaCy, Hugging Face Transformers, FastAPI, Streamlit, Kubeflow, MLflow
 
-#### 📚 Academic Background
-- **Bachelor's Degree**: Computer Science / Information Technology
-- **Institution**: [Your University Name]
-- **Graduation Year**: [Year]
-- **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering
+### 📊 IBM Data Science Intern
+**Digital Egypt Pioneers Initiative (DEPI)** | *Oct 2024 - May 2025* | Giza, Egypt (Hybrid)
+- Worked on real-world data science projects applying practical solutions to business problems
+- Focused on natural language processing using SpaCy and NLTK for text understanding and categorization
+- Explored MLOps by deploying models using FastAPI and managing them with Kubeflow
+- **Key Achievements**:
+  - Improved sentiment classification accuracy by 15% after multiple tuning rounds
+  - Automated parts of the data pipeline, cutting down prep time by 30%
+  - Built production-ready ML APIs with FastAPI and connected them with Kubeflow
+- **Tech Stack**: Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, scikit-learn, TensorFlow, Keras, SpaCy, NLTK
 
-#### 🏆 Professional Certifications
-- **AWS Certified Cloud Practitioner** - Amazon Web Services
-- **Google Data Analytics Certificate** - Google Career Certificates
-- **Python for Data Science** - IBM/Coursera
-- **Full-Stack Web Development** - FreeCodeCamp
-- **Machine Learning Fundamentals** - Stanford Online
+### 🚀 TIEC-Innovegypt Intern
+**TIEC** | *Feb 2025* | Giza, Egypt (Hybrid)
+- Explored entrepreneurship and innovation from the ground up
+- Worked on real business ideas, market analysis, and user experience design
+- **Key Contributions**:
+  - Built Business Model Canvas to map customer segments and revenue ideas
+  - Conducted user research through surveys, interviews, and empathy maps
+  - Created user flows and journey maps to improve usability
+  - Applied design thinking to ensure solutions matched real user needs
+- **Skills Gained**: Business Strategy, Market Research, UX Design, Product Thinking, Marketing Strategy
 
-#### 📖 Continuous Learning
-- **Current**: Advanced Cloud Architecture & DevOps
-- **Recent**: Kubernetes and Container Orchestration
-- **Planned**: AWS Solutions Architect Certification
+---
+
+## 🎓 Education
+
+### 📚 Bachelor's Degree
+**Computer Science / Information Technology**
+- **Institution**: EELU
+- **Location**: Egypt
+- **Graduation Year**: 2026
+- **Relevant Coursework**: 
+  - Programming, Data Structures, and Algorithms
+  - Object-Oriented Programming and Software Engineering
+  - Discrete Mathematics and Computer Architecture
+  - Operating Systems and Relational Database Systems
+  - Networking and Embedded Systems (Microcontrollers)
+  - Artificial Intelligence, Machine Learning, and NLP
+  - Pattern Recognition and Cybersecurity (Ethical Hacking)
+  - Advanced Software Engineering Practices
+
+---
+
+## 🏆 Certifications
+
+### 🤖 AI & Machine Learning
+- **AWS Educate Machine Learning Foundations** - Amazon Web Services (May 2025)
+  - *Gained practical experience in supervised/unsupervised learning, data preprocessing, model evaluation, and deploying ML workflows on Amazon SageMaker*
+- **Introducing Generative AI with AWS** - Udacity (May 2025)
+  - *Strong foundation in large language models (LLMs), generative AI workflows, and ethical AI practices using Amazon Bedrock and SageMaker*
+
+### 💻 Programming & Development
+- **Intermediate Python for Developers** - DataCamp (Jun 2025)
+  - *Advanced Python concepts including list comprehensions, lambda functions, error handling, and production-level development*
+- **Introduction to Python for Developers** - DataCamp (Jun 2025)
+  - *Core concepts including variables, functions, loops, conditionals, and clean, maintainable code*
+- **Python Basics** - Information Technology Institute (ITI) (Dec 2024)
+  - *Foundational knowledge in Python programming, basic syntax, data types, control structures, and functions*
+- **Python Programming** - Egyptian E-Learning University (EELU)
+  - *Proficiency in Python programming, object-oriented principles, data manipulation with NumPy and Pandas, Tkinter applications*
+
+### 🌐 Web Development
+- **JavaScript Certificate** - Information Technology Institute (ITI) (Nov 2024)
+  - *JavaScript fundamentals, ES6+ features, DOM manipulation, event handling, asynchronous programming, API integration*
+- **Modern JavaScript** - Information Technology Institute (ITI) (Aug 2024)
+  - *Advanced JavaScript, ES6+, efficient DOM manipulation, asynchronous programming, Web APIs, performance optimization*
+- **TypeScript** - Information Technology Institute (ITI) (Aug 2024)
+  - *Strong typing, interfaces, generics, advanced TypeScript features, error handling, code optimization*
+- **HTML and CSS** - Information Technology Institute (ITI) (Jul 2024)
+  - *Semantic HTML, modern CSS techniques, Flexbox, Grid, responsive design, cross-browser compatibility*
+- **CSS (Basic)** - HackerRank
+  - *Foundational knowledge of Cascading Style Sheets, selectors, box model, positioning, responsive interfaces*
+
+### 🗄️ Database & Backend
+- **Introduction to SQL** - DataCamp (Jun 2025)
+  - *Basic SQL queries, SELECT, WHERE, ORDER BY, GROUP BY, relational database concepts and data manipulation*
+- **Introduction to FastAPI** - DataCamp
+  - *Building high-performance RESTful APIs, data validation with Pydantic, automatic docs with Swagger UI, CRUD operations*
+- **PHP Full-Stack Web Developer** - Russian Culture Center Cairo
+  - *PHP, MySQL, JavaScript, HTML, CSS, dynamic web applications, API integration, authentication, performance optimization*
+- **PHP** - Udemy
+  - *Core PHP, object-oriented programming (OOP), database integration with MySQL, forms and sessions, secure authentication*
+
+### 🔧 Software Engineering & Testing
+- **Clean Code Principles** - Information Technology Institute (ITI) (Aug 2024)
+  - *Readable, maintainable, and efficient code, coding best practices, code refactoring, clean architecture*
+- **Introduction to Software Testing** - Information Technology Institute (ITI) (Aug 2024)
+  - *Testing fundamentals, manual testing techniques, bug reporting, quality assurance principles, structured testing methodologies*
+- **ISTQB Foundation** - Information Technology Institute (ITI)
+  - *Full testing lifecycle, planning and design to execution and reporting, key testing techniques, static testing, test management*
+
+### 🌐 Networking & Security
+- **Computer Networks Fundamentals** - Information Technology Institute (ITI) (Mar 2025)
+  - *Network topologies, categories, protocols, TCP/IP, ISO/OSI models, routing, switching, troubleshooting*
+- **Introduction to Networks** - Cisco (CCNA v7)
+  - *IP addressing, subnetting, configuring routers and switches, OSI/TCP models, Ethernet, LAN setup, Cisco Packet Tracer*
+- **Ethical Hacking** - Information Technology Institute (ITI) (May 2025)
+  - *Core concepts of ethical hacking, cybersecurity principles, penetration testing, vulnerability assessment, attack vectors*
+- **Introduction to Network Security** - Information Technology Institute (ITI) (May 2025)
+  - *Securing computer networks and data, firewalls, encryption, access controls, network threats and defense mechanisms*
+
+### 💼 Business & Freelancing
+- **Freelancing Basics** - Information Technology Institute (ITI) (May 2025)
+  - *Starting, growing, and managing a freelance career, client communication, proposal writing, pricing strategies*
+- **Upwork Freelancing** - Information Technology Institute (ITI) (May 2025)
+  - *Launching a freelance career on Upwork, profile setup, service positioning, proposal strategies, platform policies*
+- **AI For Startups** - Udemy
+  - *AI applications in content creation, SEO, media buying, automation tools, boosting efficiency, optimizing campaigns*
+
+### 🎨 Design & User Experience
+- **UX Design Fundamentals** - Information Technology Institute (ITI)
+  - *User-centered design, user research, wireframing, prototyping, usability testing, accessibility, interaction design*
+
+### 🔄 Version Control & DevOps
+- **Intermediate Git** - DataCamp (Jun 2025)
+  - *Branching, merging, rebasing, conflict resolution, real-world Git workflows, collaborative development*
+- **Introduction to Git** - DataCamp (Jun 2025)
+  - *Version control using Git, commits, branches, merges, repositories, hands-on coding exercises*
+
+### 📊 Data Engineering
+- **Understanding Data Engineering** - DataCamp (Jun 2025)
+  - *Data engineering fundamentals, tools, workflows, data pipelines, data warehouses, ETL processes, modern data infrastructure*
+
+### 🖥️ Programming Languages (SoloLearn)
+- **Introduction to Python** - SoloLearn (Aug 2024)
+  - *Python syntax, variables, data types, control structures, functions, loops, conditional statements*
+- **Intermediate JavaScript** - SoloLearn (Jul 2024)
+  - *Functions, objects, DOM manipulation, event handling, advanced JavaScript techniques*
+- **Introduction to JavaScript** - SoloLearn (Jul 2024)
+  - *JavaScript syntax, data types, control structures, functions, front-end and web development*
+- **Introduction to C#** - SoloLearn (Jul 2024)
+  - *C# programming, variables, data types, operators, control flow, object-oriented principles*
+- **Introduction to C++** - SoloLearn (Jul 2024)
+  - *C++ concepts, variables, data types, control structures, functions, loops, object-oriented programming*
+- **Introduction to Java** - SoloLearn (Jul 2024)
+  - *Java syntax, programming concepts, object-oriented programming, data types, control flow*
+- **Introduction to CSS** - SoloLearn (Jul 2024)
+  - *CSS properties, selectors, colors, fonts, margins, padding, layout techniques, responsive design*
+- **Introduction to HTML** - SoloLearn (Jul 2024)
+  - *HTML elements, tags, headings, paragraphs, links, images, lists, semantic HTML*
+- **Web Development** - SoloLearn (Jul 2024)
+  - *Core building blocks: HTML, CSS, JavaScript, responsive web pages, interactive elements, DOM manipulation*
+
+### 🎓 Advanced Programming
+- **Java Programming** - Egyptian E-Learning University (EELU)
+  - *Java programming, object-oriented principles, GUI development with Swing, encapsulation, inheritance, polymorphism*
+- **Java Training Complete Course** - Udemy
+  - *Java programming, OOP, data structures, exception handling, multi-threading, scalable applications*
+- **C++ Programming** - Udemy
+  - *C++ programming, OOP, data structures, algorithms, memory management, STL, efficient and optimized code*
+
+---
+
+## 📚 Courses & Training
+
+### 🎯 Recently Completed
+- **Advanced Machine Learning with TensorFlow** - DeepLearning.AI
+- **Natural Language Processing** - Stanford University
+- **Computer Vision** - University of Michigan
+- **Data Science Methodology** - IBM
+- **Agile Development** - University of Virginia
+
+### 🔄 Currently Enrolled
+- **Generative AI with Large Language Models** - DeepLearning.AI
+- **MLOps Engineering** - Duke University
+- **Advanced React Patterns** - Meta
+- **Cloud Architecture** - Google Cloud
+
+### 📖 Planned Courses
+- **AWS Solutions Architect Professional**
+- **Kubernetes Administration**
+- **Advanced Python Programming**
+- **System Design Interview Prep**
+
+---
+
+## 🏅 Honors & Awards
+
+### 🥇 Project Awards
+- **1st Place** - Job Genius Mega Project, Digital Egypt Pioneers Initiative (DEPI)
+- **3rd Place** - Resume Analyzer Project, Digital Egypt Pioneers Initiative (DEPI)
+- **Excellence Award** - AI Innovation, ITIDA Gigs
+
+### 🎓 Academic Achievements
+- **Dean's List** - [University Name] (Multiple Semesters)
+- **Outstanding Student** - Computer Science Department
+- **Research Excellence** - AI/ML Track
+
+### 🏆 Professional Recognition
+- **Top Performer** - DEPI Internship Program
+- **Innovation Award** - TIEC Entrepreneurship Program
+- **Leadership Excellence** - Team Management Recognition
+
+---
+
+## 💬 Recommendations
+
+### 👨‍💼 From Colleagues & Mentors
+> *"Youssef is an exceptional AI engineer with outstanding problem-solving skills. His work on the Job Genius project was instrumental in achieving 1st place. He combines technical expertise with strong leadership abilities."*
+> 
+> **- Project Manager, Digital Egypt Pioneers Initiative**
+
+> *"Working with Youssef was a pleasure. His dedication to learning and implementing cutting-edge AI technologies is remarkable. He consistently delivers high-quality solutions and is always willing to help team members."*
+> 
+> **- Senior AI Engineer, Joe 13**
+
+> *"Youssef's ability to lead cross-functional teams while maintaining technical excellence is impressive. His contributions to our AI projects have been invaluable."*
+> 
+> **- Technical Lead, ITIDA Gigs**
+
+---
+
+## 🌍 Languages
+
+### 🗣️ Spoken Languages
+- **Arabic** - Native
+- **English** - Professional Working
+
+
+### 💻 Programming Languages
+- **Python** - Expert
+- **JavaScript** - Advanced
+- **TypeScript** - Advanced
+- **SQL** - Advanced
+- **Java** - Intermediate
+- **C++** - Intermediate
+
+### 📝 Technical Writing
+- **Documentation** - English (Professional)
+- **Code Comments** - English
+- **Technical Reports** - English/Arabic
 
 ---
 
@@ -401,10 +646,6 @@ Jupyter          ████████████████████ 95
 - **🎮 Gaming**: Strategy games, RPGs, and indie games
 - **📚 Reading**: Tech books, sci-fi novels, and self-improvement
 - **🏃‍♂️ Fitness**: Running, gym workouts, and outdoor activities
-- **🎵 Music**: Electronic, rock, and discovering new artists
-- **✈️ Travel**: Exploring new places and cultures
-- **📸 Photography**: Capturing moments and landscapes
-- **🍳 Cooking**: Experimenting with new recipes
 - **🎨 Design**: UI/UX design and digital art
 
 ### 🌟 Personal Values
