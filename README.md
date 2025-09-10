@@ -52,8 +52,6 @@ me.say_hi()
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Engineer;Cloud+Architect;DevOps+Enthusiast" alt="Tech Stack Typing" />
 </div>
 
----
-
 <br>
 
 ### 💻 **Programming Languages**
@@ -690,33 +688,6 @@ Jupyter          ████████████████████ 95
 - **Documentation** - English (Professional)
 - **Code Comments** - English
 - **Technical Reports** - English/Arabic
-
----
-
-## 🎯 Learning Goals 2025
-
-### 🚀 Technical Skills
-- [ ] **Deep Dive into Kubernetes** - Container orchestration and microservices
-- [ ] **Docker & DevOps** - CI/CD pipelines and automation
-
-### 🤖 AI/ML & Data Science
-- [ ] **Advanced Machine Learning** - Deep learning with PyTorch
-- [ ] **Computer Vision** - Image processing and recognition
-- [ ] **Natural Language Processing** - Advanced NLP techniques
-- [ ] **MLOps** - Machine learning operations and deployment
-
-### 💼 Professional Development
-- [ ] **Open Source Contributions** - Contribute to major projects
-- [ ] **Technical Writing** - Write technical blog posts
-- [ ] **Mentoring** - Help junior developers grow
-- [ ] **Business Skills** - Project management and client relations
-
-### 🌟 Personal Goals
-- [ ] **Build a SaaS Product** - Launch my own software product
-- [ ] **Create Educational Content** - YouTube channel or course
-- [ ] **Network & Community** - Join developer communities
-- [ ] **Work-Life Balance** - Maintain healthy coding habits
-
 
 ---
 
