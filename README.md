@@ -56,149 +56,262 @@ me.say_hi()
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Engineer;Cloud+Architect;DevOps+Enthusiast" alt="Tech Stack Typing" />
 </div>
 
-### 🎨 Frontend Development
+---
+
+### 🎯 **Core Expertise Areas**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💻 **Programming Languages**
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
 </div>
 
-### ⚙️ Backend Development
+#### 🎨 **Frontend Development**
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117" />
 </div>
 
-### 🤖 Machine Learning & Data Science
+</td>
+<td width="50%">
+
+#### ⚙️ **Backend Development**
 <div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" />
 </div>
 
-### ☁️ Cloud & DevOps
+#### 🤖 **Machine Learning & Data Science**
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
 </div>
 
-### 🛠️ Tools & Technologies
+</td>
+</tr>
+</table>
+
+---
+
+### ☁️ **Cloud & DevOps**
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitLab_CI-CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" />
+</div>
+
+### 🛠️ **Development Tools & Technologies**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117" />
+</div>
+
+---
+
+### 🎨 **Modern Design & UI/UX**
+<div align="center">
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white&labelColor=0D1117" />
+</div>
+
+---
+
+### 🚀 **Emerging Technologies**
+<div align="center">
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0D1117" />
 </div>
 
 ---
 
 ## 📈 Skills Progress & Expertise
 
-### 💻 Programming Languages
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Expert+Level+Skills;Advanced+Proficiency;Continuous+Learning;Professional+Growth" alt="Skills Typing" />
+</div>
+
+---
+
+### 🎯 **Skill Proficiency Matrix**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💻 **Programming Languages**
 ```
-Python           ████████████████████ 95%
-JavaScript       ████████████████████ 90%
-TypeScript       ████████████████████ 85%
-HTML/CSS         ████████████████████ 95%
-SQL              ████████████████████ 90%
-Java             ████████████████████ 75%
-C++              ████████████████████ 70%
+Python           ████████████████████ 95% ⭐⭐⭐⭐⭐
+JavaScript       ████████████████████ 90% ⭐⭐⭐⭐⭐
+TypeScript       ████████████████████ 85% ⭐⭐⭐⭐
+HTML/CSS         ████████████████████ 95% ⭐⭐⭐⭐⭐
+SQL              ████████████████████ 90% ⭐⭐⭐⭐⭐
+Java             ████████████████████ 75% ⭐⭐⭐⭐
+C++              ████████████████████ 70% ⭐⭐⭐
 ```
 
-### 🎨 Frontend Development
+#### 🎨 **Frontend Development**
 ```
-React/Next.js    ████████████████████ 95%
-Vue.js           ████████████████████ 80%
-Angular          ████████████████████ 75%
-Tailwind CSS     ████████████████████ 90%
-Bootstrap        ████████████████████ 85%
-Sass/SCSS        ████████████████████ 80%
-Redux            ████████████████████ 85%
-```
-
-### ⚙️ Backend Development
-```
-Django           ████████████████████ 90%
-FastAPI          ████████████████████ 85%
-Flask            ████████████████████ 80%
-Node.js          ████████████████████ 75%
-Express.js       ████████████████████ 70%
-Database Design  ████████████████████ 90%
-API Development  ████████████████████ 95%
+React/Next.js    ████████████████████ 95% ⭐⭐⭐⭐⭐
+Vue.js           ████████████████████ 80% ⭐⭐⭐⭐
+Angular          ████████████████████ 75% ⭐⭐⭐⭐
+Tailwind CSS     ████████████████████ 90% ⭐⭐⭐⭐⭐
+Bootstrap        ████████████████████ 85% ⭐⭐⭐⭐
+Sass/SCSS        ████████████████████ 80% ⭐⭐⭐⭐
+Redux            ████████████████████ 85% ⭐⭐⭐⭐
 ```
 
-### 🤖 Machine Learning & Data Science
+</td>
+<td width="50%">
+
+#### ⚙️ **Backend Development**
 ```
-TensorFlow       ████████████████████ 85%
-PyTorch          ████████████████████ 80%
-Scikit-learn     ████████████████████ 90%
-Pandas           ████████████████████ 95%
-NumPy            ████████████████████ 90%
-Data Analysis    ████████████████████ 95%
-Deep Learning    ████████████████████ 80%
-Computer Vision  ████████████████████ 75%
-NLP              ████████████████████ 70%
+Django           ████████████████████ 90% ⭐⭐⭐⭐⭐
+FastAPI          ████████████████████ 85% ⭐⭐⭐⭐
+Flask            ████████████████████ 80% ⭐⭐⭐⭐
+Node.js          ████████████████████ 75% ⭐⭐⭐⭐
+Express.js       ████████████████████ 70% ⭐⭐⭐
+Database Design  ████████████████████ 90% ⭐⭐⭐⭐⭐
+API Development  ████████████████████ 95% ⭐⭐⭐⭐⭐
 ```
 
-### ☁️ Cloud & DevOps
+#### 🤖 **Machine Learning & Data Science**
 ```
-AWS              ████████████████████ 80%
-Docker           ████████████████████ 85%
-Kubernetes       ████████████████████ 70%
-CI/CD            ████████████████████ 75%
-Terraform        ████████████████████ 65%
-Jenkins          ████████████████████ 70%
+TensorFlow       ████████████████████ 85% ⭐⭐⭐⭐
+PyTorch          ████████████████████ 80% ⭐⭐⭐⭐
+Scikit-learn     ████████████████████ 90% ⭐⭐⭐⭐⭐
+Pandas           ████████████████████ 95% ⭐⭐⭐⭐⭐
+NumPy            ████████████████████ 90% ⭐⭐⭐⭐⭐
+Data Analysis    ████████████████████ 95% ⭐⭐⭐⭐⭐
+Deep Learning    ████████████████████ 80% ⭐⭐⭐⭐
+Computer Vision  ████████████████████ 75% ⭐⭐⭐⭐
+NLP              ████████████████████ 70% ⭐⭐⭐
 ```
 
-### 🛠️ Tools & Technologies
+</td>
+</tr>
+</table>
+
+---
+
+### ☁️ **Cloud & DevOps Expertise**
 ```
-Git/GitHub       ████████████████████ 95%
-VS Code          ████████████████████ 90%
-PyCharm          ████████████████████ 85%
-Postman          ████████████████████ 90%
-Figma            ████████████████████ 75%
-Jupyter          ████████████████████ 95%
+AWS              ████████████████████ 80% ⭐⭐⭐⭐
+Docker           ████████████████████ 85% ⭐⭐⭐⭐
+Kubernetes       ████████████████████ 70% ⭐⭐⭐
+CI/CD            ████████████████████ 75% ⭐⭐⭐⭐
+Terraform        ████████████████████ 65% ⭐⭐⭐
+Jenkins          ████████████████████ 70% ⭐⭐⭐
+Ansible          ████████████████████ 60% ⭐⭐⭐
+GitLab CI/CD     ████████████████████ 75% ⭐⭐⭐⭐
 ```
+
+### 🛠️ **Development Tools & Technologies**
+```
+Git/GitHub       ████████████████████ 95% ⭐⭐⭐⭐⭐
+VS Code          ████████████████████ 90% ⭐⭐⭐⭐⭐
+PyCharm          ████████████████████ 85% ⭐⭐⭐⭐
+Postman          ████████████████████ 90% ⭐⭐⭐⭐⭐
+Figma            ████████████████████ 75% ⭐⭐⭐⭐
+Jupyter          ████████████████████ 95% ⭐⭐⭐⭐⭐
+Slack            ████████████████████ 85% ⭐⭐⭐⭐
+Trello           ████████████████████ 80% ⭐⭐⭐⭐
+```
+
+---
+
+### 🎨 **Design & UI/UX Skills**
+```
+Material Design  ████████████████████ 80% ⭐⭐⭐⭐
+Adobe XD         ████████████████████ 70% ⭐⭐⭐
+Sketch           ████████████████████ 65% ⭐⭐⭐
+InVision         ████████████████████ 70% ⭐⭐⭐
+Storybook        ████████████████████ 75% ⭐⭐⭐⭐
+Chakra UI        ████████████████████ 80% ⭐⭐⭐⭐
+MUI              ████████████████████ 85% ⭐⭐⭐⭐
+Ant Design       ████████████████████ 80% ⭐⭐⭐⭐
+```
+
+### 🚀 **Emerging Technologies**
+```
+Web3             ████████████████████ 60% ⭐⭐⭐
+Blockchain       ████████████████████ 55% ⭐⭐⭐
+GraphQL          ████████████████████ 75% ⭐⭐⭐⭐
+WebRTC           ████████████████████ 65% ⭐⭐⭐
+WebAssembly      ████████████████████ 50% ⭐⭐
+PWA              ████████████████████ 80% ⭐⭐⭐⭐
+Microservices    ████████████████████ 85% ⭐⭐⭐⭐
+Serverless       ████████████████████ 75% ⭐⭐⭐⭐
+```
+
+---
+
+### 📊 **Skill Level Legend**
+- ⭐⭐⭐⭐⭐ **Expert** (90-100%): Mastery level, can teach others
+- ⭐⭐⭐⭐ **Advanced** (70-89%): Highly proficient, can lead projects
+- ⭐⭐⭐ **Intermediate** (50-69%): Competent, can work independently
+- ⭐⭐ **Beginner** (30-49%): Learning, needs guidance
+- ⭐ **Novice** (0-29%): Just starting, needs supervision
 
 ---
 
