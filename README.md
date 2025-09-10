@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Scientist;Open+Source+Contributor;From+Egypt+🇪🇬" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" alt="Coding GIF"/>
-</div>
 
 ---
 
