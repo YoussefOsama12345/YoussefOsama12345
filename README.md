@@ -241,7 +241,7 @@ Jupyter          ████████████████████ 95
 ## 📄 Resume/CV
 
 <div align="center">
-  <a href="mailto:osama74454@gmail.com">
+  <a href="https://drive.google.com/file/d/1e47f_6DfP0OFVxFT1qkKr44iNAN73Wud/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
   <a href="mailto:osama74454@gmail.com">
@@ -529,24 +529,65 @@ Jupyter          ████████████████████ 95
 
 ## 📚 Courses & Training
 
-### 🎯 Recently Completed
-- **Advanced Machine Learning with TensorFlow** - DeepLearning.AI
-- **Natural Language Processing** - Stanford University
-- **Computer Vision** - University of Michigan
-- **Data Science Methodology** - IBM
-- **Agile Development** - University of Virginia
+### 🎓 University Courses (EELU)
 
-### 🔄 Currently Enrolled
-- **Generative AI with Large Language Models** - DeepLearning.AI
-- **MLOps Engineering** - Duke University
-- **Advanced React Patterns** - Meta
-- **Cloud Architecture** - Google Cloud
+#### 🔬 Core Computer Science
+- **Advanced Computer Networks** (IT434)
+- **Advanced Software Engineering** (CS344)
+- **Algorithms Analysis and Design** (CS341)
+- **Computer Organization** (CS318)
+- **Operating System** (CS319)
+- **Data Structures** (IT216)
+- **Object Oriented Programming** (IT215)
+- **Programming Techniques** (IT114)
+- **Introduction To Computer Science** (IT110)
+- **Logic Design** (IT113)
 
-### 📖 Planned Courses
-- **AWS Solutions Architect Professional**
-- **Kubernetes Administration**
-- **Advanced Python Programming**
-- **System Design Interview Prep**
+#### 🤖 Artificial Intelligence & Machine Learning
+- **Artificial Intelligence** (AI311)
+- **Machine Learning Fundamentals** (AI321)
+- **Natural Language Processing** (AI448)
+- **Pattern Recognition** (IT322)
+
+#### 🌐 Networking & Security
+- **Computer Networks Technology** (IT231)
+- **Information Computer Networks Security** (IT333)
+- **Network Fundamentals Lab** (LB211)
+- **Network Routing and Switching Lab** (LB312)
+- **Ethical Hacking** (LB313)
+
+#### 🔧 Software Engineering & Development
+- **Introduction to Software Engineering** (IT240)
+- **Selected Labs In Software Engineering** (LB421)
+- **Web Technology** (IT230)
+- **Introduction To Database Systems** (DS211)
+
+#### ⚡ Electronics & Embedded Systems
+- **Electronics** (IT110)
+- **Embedded Systems** (IT423)
+- **Microcontrollers** (IT343)
+- **Digital Signal Processing** (IT212)
+
+#### 🎨 Graphics & Multimedia
+- **Computer Graphics** (IT221)
+
+#### 📊 Mathematics & Statistics
+- **Math 1** (MA111)
+- **Math 2** (MA113)
+- **Math 3** (MA214)
+- **Discrete Math** (MA112)
+- **Probability and Statistics** (ST121)
+- **Probability and Statistics 2** (ST222)
+
+#### 🔬 Operations Research
+- **Introduction To Operation Research** (IT217)
+
+#### 🎓 Humanities & Soft Skills
+- **Creative and Scientific Thinking** (HU112)
+- **Human Rights** (HU113)
+- **Entrepreneurship** (HU427)
+- **Micro Economics** (HU101)
+- **Technical Report Writing** (HU111)
 
 ---
 
@@ -571,18 +612,85 @@ Jupyter          ████████████████████ 95
 
 ## 💬 Recommendations
 
-### 👨‍💼 From Colleagues & Mentors
-> *"Youssef is an exceptional AI engineer with outstanding problem-solving skills. His work on the Job Genius project was instrumental in achieving 1st place. He combines technical expertise with strong leadership abilities."*
-> 
-> **- Project Manager, Digital Egypt Pioneers Initiative**
+> *"I'm honored to have received recommendations from colleagues, mentors, and peers who have worked with me on various projects. These recommendations reflect my commitment to excellence, collaboration, and continuous learning in the field of AI and software development."*
 
-> *"Working with Youssef was a pleasure. His dedication to learning and implementing cutting-edge AI technologies is remarkable. He consistently delivers high-quality solutions and is always willing to help team members."*
-> 
-> **- Senior AI Engineer, Joe 13**
+### 👥 From DEPI Team Members & Colleagues
 
-> *"Youssef's ability to lead cross-functional teams while maintaining technical excellence is impressive. His contributions to our AI projects have been invaluable."*
+> *"I had the pleasure of working alongside Youssef on the Job Genius project, where we collaborated as teammates. Youssef consistently impressed me with his deep understanding of data science and AI, and his ability to turn complex ideas into effective, real-world solutions. He played a key role in developing and optimizing the AI-driven components of the platform, especially in AI features, where his expertise in model selection, evaluation, and deployment truly stood out. Youssef not only brought technical excellence to the table, but also a collaborative spirit that made working with him a rewarding experience. He's proactive, detail-oriented, and always eager to help others grow—a true asset to any team. I'm confident he'll continue to make an impact wherever he goes in the data and AI world."*
 > 
-> **- Technical Lead, ITIDA Gigs**
+> **- Ahmed Talima, AI & Remote Sensing Intern @NARSS | IBM Certified AI & Data Scientist**
+
+> *"I had the opportunity to work closely with Youssef on our DEPI MEGA project, Job Genius, where we collaborated to build the platform's AI-powered Resume Analyzer. It was clear from day one that Youssef brings a strong data science mindset, attention to detail, and a deep understanding of how to turn raw data into real, user-facing impact. We worked together on designing the scoring logic, extracting structured data from resumes, and generating smart, actionable feedback for users. Youssef was not only technically sharp, but also incredibly easy to collaborate with — open to ideas, always thoughtful in his approach, and genuinely focused on making the tool effective and user-centric. His ability to break down complex tasks, write clean, maintainable code, and align with the broader product vision made a big difference in delivering a feature we were truly proud of. I highly recommend Youssef to any team looking for a dependable, collaborative, and capable data scientist. He's someone you can count on to bring both quality and creativity to the table."*
+> 
+> **- Yousuf El-Sherif, AI Engineer | Machine Learning & NLP Specialist**
+
+> *"As the team leader of the employment platform 'JobGenius' and the supervisor of the product design process, I would like to sincerely thank you, Youssef. First, I want to acknowledge your outstanding collaboration. You worked seamlessly as part of a multidisciplinary team, showing exceptional coordination and cooperation across different tracks. Your primary role - designing the AI-based resume analyser simulation- was carried out with remarkable professionalism. Achieving over 90% accuracy is a testament to your skill and dedication. Thank you once again, Youssef. Words may fall short of expressing the depth of my appreciation for your efforts."*
+> 
+> **- Ahmed Safwat, Medical Intern | UI/UX Designer | Team Leader**
+
+> *"I had the pleasure of working alongside Youssef on a project focused on AI-powered resume analysis and job recommendation systems, and I can confidently say he is one of the most dedicated and talented individuals I've worked with. Youssef has a strong grasp of machine learning techniques and a deep understanding of how to apply them to real-world challenges. What stood out most was his collaborative attitude and willingness to support the team. Youssef doesn't just focus on getting the job done; he ensures it's done with precision, clarity, and purpose. Highly recommended!"*
+> 
+> **- Areej Farag, Web Developer (React.js, JavaScript) | DEPI Trainer | Software Engineer**
+
+### 🎓 From University Colleagues & Peers
+
+> *"If you're looking for a brilliant Software Developer and Data Scientist who can turn complex data into magic and make code work like a charm, then let me introduce you to Youssef Osama! Youssef is not just great with algorithms and data models—he's the guy who can take a messy dataset and turn it into meaningful insights faster than you can say 'machine learning.' He's a problem-solver at heart, always thinking two steps ahead and finding innovative solutions that others might overlook. Beyond his technical genius, Youssef is a fantastic team player. He's the person who makes debugging sessions less painful and brainstorming meetings way more exciting. If you ever need someone who can mix logic with creativity, precision with innovation, and maybe even some good humor along the way, then Youssef is your guy. Any team would be lucky to have him—so if you get the chance to work with him, don't miss it! 🚀"*
+> 
+> **- Abdallah Magdy, Junior UI/UX Designer | Visual Design & UX Thinking**
+
+> *"I've had the opportunity to work with him during our time at university, and he always stands out with his problem-solving skills. He has a strong grasp of AI, Django development, and Machine Learning, applying them effectively in real-world projects. His analytical mindset and structured approach to coding make him a valuable asset to any team. I'm confident he will achieve great success in the field!"*
+> 
+> **- Yousef Senada, Software Engineer — Full Stack Web Apps | TypeScript, React, Next.js**
+
+> *"I've had the pleasure of working with Youssef, and I can confidently say he is an exceptional problem solver and a highly skilled Data Scientist and Django Developer. His ability to tackle complex challenges with a structured, analytical mindset sets him apart. Beyond his technical expertise, Youssef is an excellent communicator, making collaboration seamless and effective. He has a true passion for learning, always staying ahead of industry trends and continuously improving his skills. If you're looking for someone who combines technical excellence with strong communication and a growth mindset, I highly recommend Youssef!"*
+> 
+> **- Nour Mounir, Student at Faculty of Computer Science And Information Technology**
+
+### 🏆 From Project Collaborators
+
+> *"Working with you was a great experience. Your passion for AI and your technical depth stood out from the beginning. You consistently brought thoughtful insights, innovative ideas, and reliable solutions to every challenge we faced. I was especially impressed by your problem-solving skills and your ability to break down complex tasks into clear, actionable steps. Whether it was model tuning, data processing, or building AI pipelines, you approached each task with focus and precision. Keep up the excellent work—your dedication and curiosity will no doubt take you far in the AI field."*
+> 
+> **- Abdallah Salah, Fullstack Developer (C# .NET) | Mobile App Developer (Flutter)**
+
+> *"I had the pleasure of working with Youssef Osama in the same group. He is one of the most dedicated and respectful people I've worked with. Youssef consistently delivers high-quality work, is highly cooperative, and always supports his team. His contribution was a great asset to our success."*
+> 
+> **- Shrouk Fayez, Aspiring Data Scientist | DEPI Intern at Ministry of Communications**
+
+> *"My success partner, Youssef is one of the most hardworking and outstanding people I genuinely enjoy working with. He is truly an asset to any place he's part of, because of his talent and unique mindset."*
+> 
+> **- Mazen Mohamed Fathy, Cybersecurity Engineer | SOC Analyst | Network Security Engineer**
+
+### 🎯 From Academic & Professional Mentors
+
+> *"Youssef is one of the best minds in his generation, he always sees what anybody can't see, he always helps with any project I make or an assignment. He is a great student at our college, always helpful and always seeks for more. He has a great potential to be better in his career, and always moves forward. He has always been an inspiration, and always a motivator."*
+> 
+> **- Mostafa Mokhtar, Data Scientist**
+
+> *"Hard worker with hunger for knowledge."*
+> 
+> **- Mahmoud Elhussein, Teaching Assistant at German International University (GIU)**
+
+> *"Clever and hard working."*
+> 
+> **- Ali Elshenawy, AI Developer | Master in AI from Ottawa University, Canada**
+
+### 🎓 From University & Academic Peers
+
+> *"I highly recommend Youssef as he's a great team leader and an extremely reliable developer and I hope we keep working together in the future."*
+> 
+> **- Mohammed Adel, Student at Faculty of Computer Science And Information Technology**
+
+> *"Youssef Osama is not only skilled in writing efficient and clean code but also possesses a deep understanding of problem-solving and logic. They approach challenges with a creative mindset, considering multiple solutions before selecting the most optimal one. Their ability to adapt to new technologies and frameworks ensures they stay relevant in an ever-evolving field. Communication is another vital trait, as they effectively collaborate with teams, explaining complex ideas in simple terms. Youssef Osama also understands the importance of testing and debugging, ensuring their code works seamlessly under various conditions. Lastly, they have a passion for learning, constantly honing their craft and embracing new methodologies."*
+> 
+> **- Hussein Oraby, Student at The Egyptian E-Learning University (EELU)**
+
+> *"I highly recommend Youssef for any opportunity in Data Science or Web Development. I have seen his strong problem-solving skills and dedication to learning. He has gained hands-on experience in Data Science, and his web development skills allow him to build effective data-driven applications. He is a great team player and always eager to improve. I am confident he will be a valuable addition to any team."*
+> 
+> **- Ahmed Salah, Student at Faculty of Computer Science And Information Technology**
+
+> *"Although we haven't worked together on a professional project, I've seen firsthand Youssef's work ethic, creativity, and commitment to excellence. I'm confident that Youssef will be a valuable asset to any team or organization. He has a genuine enthusiasm for data science, software engineering, and he is always striving to learn and improve."*
+> 
+> **- Abdelraheem Mohamed, Student at EELU**
 
 ---
 
@@ -608,13 +716,10 @@ Jupyter          ████████████████████ 95
 
 ---
 
-## 🎯 Learning Goals 2024
+## 🎯 Learning Goals 2025
 
 ### 🚀 Technical Skills
-- [ ] **Master Advanced React Patterns** - Hooks, Context, Performance Optimization
 - [ ] **Deep Dive into Kubernetes** - Container orchestration and microservices
-- [ ] **AWS Solutions Architect Certification** - Cloud architecture expertise
-- [ ] **GraphQL & Apollo** - Modern API development
 - [ ] **Docker & DevOps** - CI/CD pipelines and automation
 
 ### 🤖 AI/ML & Data Science
@@ -622,12 +727,10 @@ Jupyter          ████████████████████ 95
 - [ ] **Computer Vision** - Image processing and recognition
 - [ ] **Natural Language Processing** - Advanced NLP techniques
 - [ ] **MLOps** - Machine learning operations and deployment
-- [ ] **Big Data Processing** - Apache Spark and distributed computing
 
 ### 💼 Professional Development
 - [ ] **Open Source Contributions** - Contribute to major projects
 - [ ] **Technical Writing** - Write technical blog posts
-- [ ] **Public Speaking** - Present at tech meetups/conferences
 - [ ] **Mentoring** - Help junior developers grow
 - [ ] **Business Skills** - Project management and client relations
 
@@ -636,7 +739,7 @@ Jupyter          ████████████████████ 95
 - [ ] **Create Educational Content** - YouTube channel or course
 - [ ] **Network & Community** - Join developer communities
 - [ ] **Work-Life Balance** - Maintain healthy coding habits
-- [ ] **Travel & Conferences** - Attend international tech events
+
 
 ---
 
