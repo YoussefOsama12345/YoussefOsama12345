@@ -70,10 +70,6 @@ me.say_hi()
 
 <br>
 
-<table>
-<tr>
-<td width="33.33%" align="center">
-
 ### 💻 **Programming Languages**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
@@ -86,9 +82,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
 </div>
 
-</td>
-<td width="33.33%" align="center">
-
 ### 🎨 **Frontend Development**
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
@@ -96,9 +89,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" />
 </div>
-
-</td>
-<td width="33.33%" align="center">
 
 ### ⚙️ **Backend Development**
 <div align="center">
@@ -112,14 +102,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" />
 </div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
 
 ### 🤖 **Machine Learning & Data Science**
 <div align="center">
@@ -135,17 +117,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
 </div>
 
-</div>
-
----
-
-### 🚀 **Advanced Technologies & Tools**
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### ☁️ **Cloud & DevOps**
+### ☁️ **Cloud & DevOps**
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0D1117" />
@@ -155,10 +127,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitLab_CI-CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" />
 </div>
 
-</td>
-<td width="50%" align="center">
-
-#### 🛠️ **Development Tools**
+### 🛠️ **Development Tools**
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
@@ -172,14 +141,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117" />
 </div>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
 ### 🎨 **Modern Design & UI/UX**
 <div align="center">
   <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white&labelColor=0D1117" />
@@ -190,8 +151,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white&labelColor=0D1117" />
-</div>
-
 </div>
 
 ---
