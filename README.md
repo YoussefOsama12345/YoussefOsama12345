@@ -1,4 +1,4 @@
-<img src="Github Banner.png">
+<img src="banner.png">
 
 <h2 align="left">`Hi 👋! My name is Youssef, and I'm a Full-Stack Web Developer, Machine Learning Enthusiast, and Data Scientist from Egypt.`</h2>
 
