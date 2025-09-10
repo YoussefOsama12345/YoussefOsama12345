@@ -71,7 +71,7 @@ me.say_hi()
 <br>
 
 ### 💻 **Programming Languages**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
@@ -83,7 +83,7 @@ me.say_hi()
 </div>
 
 ### 🎨 **Frontend Development**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" />
@@ -91,7 +91,7 @@ me.say_hi()
 </div>
 
 ### ⚙️ **Backend Development**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117" />
@@ -104,7 +104,7 @@ me.say_hi()
 </div>
 
 ### 🤖 **Machine Learning & Data Science**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
@@ -118,7 +118,7 @@ me.say_hi()
 </div>
 
 ### ☁️ **Cloud & DevOps**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
@@ -128,7 +128,7 @@ me.say_hi()
 </div>
 
 ### 🛠️ **Development Tools**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" />
@@ -142,7 +142,7 @@ me.say_hi()
 </div>
 
 ### 🎨 **Modern Design & UI/UX**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=0D1117" />
