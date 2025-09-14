@@ -770,6 +770,3 @@ Jupyter          ████████████████████ 95
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer&text=&fontAlignY=70&desc=&descAlignY=51&descAlign=50" alt="Footer Wave" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2a5298,100:1e3c72&height=80&section=footer&text=&fontAlignY=70&desc=&descAlignY=51&descAlign=50" alt="Footer Wave 2" />
-</div>
