@@ -395,115 +395,80 @@ Jupyter          ████████████████████ 95
   - Pattern Recognition and Cybersecurity (Ethical Hacking)
   - Advanced Software Engineering Practices
 
+### 🎯 Activities and Societies
+**Microsoft Learn Student Ambassador (MLSA)**
+- Participated in workshops, hackathons, and tech talks on AI, cloud, and data science
+- Engaged in collaborative projects with peers in machine learning, NLP, and software development
+- Contributed to knowledge-sharing and peer learning in programming, algorithms, and data analysis
+
 ---
 
 ## 🏆 Certifications
 
 ### 🤖 AI & Machine Learning
-- **AWS Educate Machine Learning Foundations** - Amazon Web Services (May 2025)
-  - *Gained practical experience in supervised/unsupervised learning, data preprocessing, model evaluation, and deploying ML workflows on Amazon SageMaker*
-- **Introducing Generative AI with AWS** - Udacity (May 2025)
-  - *Strong foundation in large language models (LLMs), generative AI workflows, and ethical AI practices using Amazon Bedrock and SageMaker*
+- **AWS Educate Machine Learning Foundations** - Amazon Web Services (May 2025) - *Supervised/unsupervised learning, data preprocessing, model evaluation, and ML deployment on SageMaker*
+- **Introducing Generative AI with AWS** - Udacity (May 2025) - *LLMs, generative AI workflows, and ethical AI practices using Amazon Bedrock and SageMaker*
 
 ### 💻 Programming & Development
-- **Intermediate Python for Developers** - DataCamp (Jun 2025)
-  - *Advanced Python concepts including list comprehensions, lambda functions, error handling, and production-level development*
-- **Introduction to Python for Developers** - DataCamp (Jun 2025)
-  - *Core concepts including variables, functions, loops, conditionals, and clean, maintainable code*
-- **Python Basics** - Information Technology Institute (ITI) (Dec 2024)
-  - *Foundational knowledge in Python programming, basic syntax, data types, control structures, and functions*
-- **Python Programming** - Egyptian E-Learning University (EELU)
-  - *Proficiency in Python programming, object-oriented principles, data manipulation with NumPy and Pandas, Tkinter applications*
+- **Intermediate Python for Developers** - DataCamp (Jun 2025) - *Advanced Python: list comprehensions, lambda functions, error handling, production development*
+- **Introduction to Python for Developers** - DataCamp (Jun 2025) - *Core Python: variables, functions, loops, conditionals, clean code*
+- **Python Basics** - Information Technology Institute (ITI) (Dec 2024) - *Python fundamentals: syntax, data types, control structures, functions*
+- **Python Programming** - Egyptian E-Learning University (EELU) - *Python OOP, NumPy/Pandas, Tkinter GUI applications*
 
 ### 🌐 Web Development
-- **JavaScript Certificate** - Information Technology Institute (ITI) (Nov 2024)
-  - *JavaScript fundamentals, ES6+ features, DOM manipulation, event handling, asynchronous programming, API integration*
-- **Modern JavaScript** - Information Technology Institute (ITI) (Aug 2024)
-  - *Advanced JavaScript, ES6+, efficient DOM manipulation, asynchronous programming, Web APIs, performance optimization*
-- **TypeScript** - Information Technology Institute (ITI) (Aug 2024)
-  - *Strong typing, interfaces, generics, advanced TypeScript features, error handling, code optimization*
-- **HTML and CSS** - Information Technology Institute (ITI) (Jul 2024)
-  - *Semantic HTML, modern CSS techniques, Flexbox, Grid, responsive design, cross-browser compatibility*
-- **CSS (Basic)** - HackerRank
-  - *Foundational knowledge of Cascading Style Sheets, selectors, box model, positioning, responsive interfaces*
+- **JavaScript Certificate** - Information Technology Institute (ITI) (Nov 2024) - *JavaScript fundamentals, ES6+, DOM manipulation, async programming, API integration*
+- **Modern JavaScript** - Information Technology Institute (ITI) (Aug 2024) - *Advanced JavaScript, ES6+, DOM manipulation, Web APIs, performance optimization*
+- **TypeScript** - Information Technology Institute (ITI) (Aug 2024) - *Strong typing, interfaces, generics, error handling, code optimization*
+- **HTML and CSS** - Information Technology Institute (ITI) (Jul 2024) - *Semantic HTML, CSS Flexbox/Grid, responsive design, cross-browser compatibility*
+- **CSS (Basic)** - HackerRank - *CSS fundamentals: selectors, box model, positioning, responsive design*
 
 ### 🗄️ Database & Backend
-- **Introduction to SQL** - DataCamp (Jun 2025)
-  - *Basic SQL queries, SELECT, WHERE, ORDER BY, GROUP BY, relational database concepts and data manipulation*
-- **Introduction to FastAPI** - DataCamp
-  - *Building high-performance RESTful APIs, data validation with Pydantic, automatic docs with Swagger UI, CRUD operations*
-- **PHP Full-Stack Web Developer** - Russian Culture Center Cairo
-  - *PHP, MySQL, JavaScript, HTML, CSS, dynamic web applications, API integration, authentication, performance optimization*
-- **PHP** - Udemy
-  - *Core PHP, object-oriented programming (OOP), database integration with MySQL, forms and sessions, secure authentication*
+- **Introduction to SQL** - DataCamp (Jun 2025) - *SQL queries, SELECT/WHERE/ORDER BY/GROUP BY, relational database concepts*
+- **Introduction to FastAPI** - DataCamp - *High-performance RESTful APIs, Pydantic validation, Swagger UI docs, CRUD operations*
+- **PHP Full-Stack Web Developer** - Russian Culture Center Cairo - *PHP, MySQL, JS, HTML/CSS, dynamic web apps, API integration, authentication*
+- **PHP** - Udemy - *Core PHP, OOP, MySQL integration, forms/sessions, secure authentication*
 
 ### 🔧 Software Engineering & Testing
-- **Clean Code Principles** - Information Technology Institute (ITI) (Aug 2024)
-  - *Readable, maintainable, and efficient code, coding best practices, code refactoring, clean architecture*
-- **Introduction to Software Testing** - Information Technology Institute (ITI) (Aug 2024)
-  - *Testing fundamentals, manual testing techniques, bug reporting, quality assurance principles, structured testing methodologies*
-- **ISTQB Foundation** - Information Technology Institute (ITI)
-  - *Full testing lifecycle, planning and design to execution and reporting, key testing techniques, static testing, test management*
+- **Clean Code Principles** - Information Technology Institute (ITI) (Aug 2024) - *Readable code, best practices, refactoring, clean architecture*
+- **Introduction to Software Testing** - Information Technology Institute (ITI) (Aug 2024) - *Testing fundamentals, manual testing, bug reporting, QA principles*
+- **ISTQB Foundation** - Information Technology Institute (ITI) - *Full testing lifecycle, planning/execution/reporting, testing techniques, test management*
 
 ### 🌐 Networking & Security
-- **Computer Networks Fundamentals** - Information Technology Institute (ITI) (Mar 2025)
-  - *Network topologies, categories, protocols, TCP/IP, ISO/OSI models, routing, switching, troubleshooting*
-- **Introduction to Networks** - Cisco (CCNA v7)
-  - *IP addressing, subnetting, configuring routers and switches, OSI/TCP models, Ethernet, LAN setup, Cisco Packet Tracer*
-- **Ethical Hacking** - Information Technology Institute (ITI) (May 2025)
-  - *Core concepts of ethical hacking, cybersecurity principles, penetration testing, vulnerability assessment, attack vectors*
-- **Introduction to Network Security** - Information Technology Institute (ITI) (May 2025)
-  - *Securing computer networks and data, firewalls, encryption, access controls, network threats and defense mechanisms*
+- **Computer Networks Fundamentals** - Information Technology Institute (ITI) (Mar 2025) - *Network topologies, protocols, TCP/IP, OSI models, routing, switching*
+- **Introduction to Networks** - Cisco (CCNA v7) - *IP addressing, subnetting, router/switch config, OSI/TCP models, LAN setup*
+- **Ethical Hacking** - Information Technology Institute (ITI) (May 2025) - *Ethical hacking, cybersecurity, penetration testing, vulnerability assessment*
+- **Introduction to Network Security** - Information Technology Institute (ITI) (May 2025) - *Network security, firewalls, encryption, access controls, threat defense*
 
 ### 💼 Business & Freelancing
-- **Freelancing Basics** - Information Technology Institute (ITI) (May 2025)
-  - *Starting, growing, and managing a freelance career, client communication, proposal writing, pricing strategies*
-- **Upwork Freelancing** - Information Technology Institute (ITI) (May 2025)
-  - *Launching a freelance career on Upwork, profile setup, service positioning, proposal strategies, platform policies*
-- **AI For Startups** - Udemy
-  - *AI applications in content creation, SEO, media buying, automation tools, boosting efficiency, optimizing campaigns*
+- **Freelancing Basics** - Information Technology Institute (ITI) (May 2025) - *Freelance career management, client communication, proposal writing, pricing*
+- **Upwork Freelancing** - Information Technology Institute (ITI) (May 2025) - *Upwork career launch, profile setup, service positioning, proposal strategies*
+- **AI For Startups** - Udemy - *AI for content creation, SEO, media buying, automation, efficiency optimization*
 
 ### 🎨 Design & User Experience
-- **UX Design Fundamentals** - Information Technology Institute (ITI)
-  - *User-centered design, user research, wireframing, prototyping, usability testing, accessibility, interaction design*
+- **UX Design Fundamentals** - Information Technology Institute (ITI) - *User-centered design, research, wireframing, prototyping, usability testing, accessibility*
 
 ### 🔄 Version Control & DevOps
-- **Intermediate Git** - DataCamp (Jun 2025)
-  - *Branching, merging, rebasing, conflict resolution, real-world Git workflows, collaborative development*
-- **Introduction to Git** - DataCamp (Jun 2025)
-  - *Version control using Git, commits, branches, merges, repositories, hands-on coding exercises*
+- **Intermediate Git** - DataCamp (Jun 2025) - *Branching, merging, rebasing, conflict resolution, Git workflows, collaborative development*
+- **Introduction to Git** - DataCamp (Jun 2025) - *Git version control, commits, branches, merges, repositories, hands-on exercises*
 
 ### 📊 Data Engineering
-- **Understanding Data Engineering** - DataCamp (Jun 2025)
-  - *Data engineering fundamentals, tools, workflows, data pipelines, data warehouses, ETL processes, modern data infrastructure*
+- **Understanding Data Engineering** - DataCamp (Jun 2025) - *Data engineering fundamentals, pipelines, data warehouses, ETL processes, modern infrastructure*
 
 ### 🖥️ Programming Languages (SoloLearn)
-- **Introduction to Python** - SoloLearn (Aug 2024)
-  - *Python syntax, variables, data types, control structures, functions, loops, conditional statements*
-- **Intermediate JavaScript** - SoloLearn (Jul 2024)
-  - *Functions, objects, DOM manipulation, event handling, advanced JavaScript techniques*
-- **Introduction to JavaScript** - SoloLearn (Jul 2024)
-  - *JavaScript syntax, data types, control structures, functions, front-end and web development*
-- **Introduction to C#** - SoloLearn (Jul 2024)
-  - *C# programming, variables, data types, operators, control flow, object-oriented principles*
-- **Introduction to C++** - SoloLearn (Jul 2024)
-  - *C++ concepts, variables, data types, control structures, functions, loops, object-oriented programming*
-- **Introduction to Java** - SoloLearn (Jul 2024)
-  - *Java syntax, programming concepts, object-oriented programming, data types, control flow*
-- **Introduction to CSS** - SoloLearn (Jul 2024)
-  - *CSS properties, selectors, colors, fonts, margins, padding, layout techniques, responsive design*
-- **Introduction to HTML** - SoloLearn (Jul 2024)
-  - *HTML elements, tags, headings, paragraphs, links, images, lists, semantic HTML*
-- **Web Development** - SoloLearn (Jul 2024)
-  - *Core building blocks: HTML, CSS, JavaScript, responsive web pages, interactive elements, DOM manipulation*
+- **Introduction to Python** - SoloLearn (Aug 2024) - *Python syntax, variables, data types, control structures, functions, loops*
+- **Intermediate JavaScript** - SoloLearn (Jul 2024) - *Functions, objects, DOM manipulation, event handling, advanced JS techniques*
+- **Introduction to JavaScript** - SoloLearn (Jul 2024) - *JavaScript syntax, data types, control structures, functions, front-end development*
+- **Introduction to C#** - SoloLearn (Jul 2024) - *C# programming, variables, data types, operators, control flow, OOP*
+- **Introduction to C++** - SoloLearn (Jul 2024) - *C++ concepts, variables, data types, control structures, functions, OOP*
+- **Introduction to Java** - SoloLearn (Jul 2024) - *Java syntax, programming concepts, OOP, data types, control flow*
+- **Introduction to CSS** - SoloLearn (Jul 2024) - *CSS properties, selectors, colors, fonts, margins, padding, responsive design*
+- **Introduction to HTML** - SoloLearn (Jul 2024) - *HTML elements, tags, headings, paragraphs, links, images, semantic HTML*
+- **Web Development** - SoloLearn (Jul 2024) - *HTML, CSS, JavaScript, responsive web pages, interactive elements, DOM*
 
 ### 🎓 Advanced Programming
-- **Java Programming** - Egyptian E-Learning University (EELU)
-  - *Java programming, object-oriented principles, GUI development with Swing, encapsulation, inheritance, polymorphism*
-- **Java Training Complete Course** - Udemy
-  - *Java programming, OOP, data structures, exception handling, multi-threading, scalable applications*
-- **C++ Programming** - Udemy
-  - *C++ programming, OOP, data structures, algorithms, memory management, STL, efficient and optimized code*
+- **Java Programming** - Egyptian E-Learning University (EELU) - *Java programming, OOP principles, Swing GUI, encapsulation, inheritance, polymorphism*
+- **Java Training Complete Course** - Udemy - *Java programming, OOP, data structures, exception handling, multi-threading*
+- **C++ Programming** - Udemy - *C++ programming, OOP, data structures, algorithms, memory management, STL*
 
 ---
 
