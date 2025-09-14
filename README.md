@@ -29,12 +29,6 @@ me.say_hi()
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Engineer;Cloud+Architect;DevOps+Enthusiast" alt="Tech Stack Typing" />
-</div>
-
-<br>
-
 ### 💻 **Programming Languages**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
