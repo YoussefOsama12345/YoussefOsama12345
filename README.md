@@ -576,18 +576,6 @@ Jupyter          ████████████████████ 95
 ### 🥇 Project Awards
 - **1st Place** - Job Genius Mega Project, Digital Egypt Pioneers Initiative (DEPI)
 - **3rd Place** - Resume Analyzer Project, Digital Egypt Pioneers Initiative (DEPI)
-- **Excellence Award** - AI Innovation, ITIDA Gigs
-
-### 🎓 Academic Achievements
-- **Dean's List** - [University Name] (Multiple Semesters)
-- **Outstanding Student** - Computer Science Department
-- **Research Excellence** - AI/ML Track
-
-### 🏆 Professional Recognition
-- **Top Performer** - DEPI Internship Program
-- **Innovation Award** - TIEC Entrepreneurship Program
-- **Leadership Excellence** - Team Management Recognition
-
 ---
 
 ## 💬 Recommendations
