@@ -231,7 +231,7 @@ Jupyter          ████████████████████ 95
 ## 📄 Resume/CV
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1fZEQNK5v8LNhbBOrg4mVatgvIk59Jzpa/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1VO7jAX9DQ4Pzf2kGFvvqlBPiwlG-wIOI/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
   <a href="mailto:osama74454@gmail.com">
